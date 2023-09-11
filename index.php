@@ -27,7 +27,11 @@ Good luck & happy coding !
     <!-- Step 1.2 -->
     <!-- Dans la variable créée plus tôt, insérer 3 valeurs ou plus. Utiliser la méthode ARRAY_MAP avec la valeur NULL en premier argument.
     -->
-    
+
+    <!-- Step 1.3 -->
+    <!-- Avec la même variable, ajouter 1 valeur ou plus au tableau avec la méthode ARRAY_PUSH.
+    -->
+
 </body>
 
 </html>
