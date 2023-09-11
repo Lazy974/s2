@@ -40,6 +40,10 @@ Good luck & happy coding !
     <!-- Déclarer une nouvelle variable de type tableau en y insérant 3 valeurs ou plus. Remplacer l'ancien tableau de votre première variable par la deuxième avec la méthode ARRAY_REPLACE.
     -->
 
+    <!-- Step 1.6 -->
+    <!-- A l'aide de vos deux variables, effectuer une fusion de deux tableaux grâce à la méthode ARRAY_MERGE.
+    -->
+
 </body>
 
 </html>
