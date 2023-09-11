@@ -56,6 +56,19 @@ Good luck & happy coding !
     <!-- Avec le tableau associatif créé précédemment, remplacer la valeur d'une des clés avec la méthode ARRAY_REPLACE.
     -->
 
+    <!-- Step 2 -->
+    <!--
+    Bravo, vous venez de terminer la manipulation d'un tableau PHP ! Ils existent encore pleins d'autres méthodes consultables ici :
+
+    https://www.php.net/manual/en/ref.array.php
+    
+    Passons à la suite en vous rendant sur ce lien :
+
+    https://github.com/Lazy974/s2
+
+    Made with ❤️ by HelloDev
+    -->
+
 </body>
 
 </html>
