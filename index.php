@@ -32,6 +32,10 @@ Good luck & happy coding !
     <!-- Avec la même variable, ajouter 1 valeur ou plus au tableau avec la méthode ARRAY_PUSH.
     -->
 
+    <!-- Step 1.4 -->
+    <!-- Avec la même variable, supprimer la dernière valeur avec la méthode ARRAY_POP.
+    -->
+
 </body>
 
 </html>
