@@ -48,6 +48,10 @@ Good luck & happy coding !
     <!-- A l'aide de votre précédent tableau fusionné, utiliser la méthode ARRAY_RAND afin de choisir au hasard des valeurs à print.
     -->
 
+    <!-- Step 1.8 -->
+    <!-- Déclarer une variable contenant 3 valeurs ou plus de type tableau associatif en textualisant les clés d'un tableau avec la méthode ARRAY. Ensuite, faites un print d'une valeur au choix en utilisant sa clé associée et la méthode PRINT_R ou ECHO.
+    -->
+
 </body>
 
 </html>
