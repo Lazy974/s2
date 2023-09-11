@@ -24,6 +24,10 @@ Good luck & happy coding !
     <!-- Déclarer une variable MY PRODUCT de type tableau en SNAKE CASE
     -->
 
+    <!-- Step 1.2 -->
+    <!-- Dans la variable créée plus tôt, insérer 3 valeurs ou plus. Utiliser la méthode ARRAY_MAP avec la valeur NULL en premier argument.
+    -->
+    
 </body>
 
 </html>
