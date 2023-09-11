@@ -52,6 +52,10 @@ Good luck & happy coding !
     <!-- Déclarer une variable contenant 3 valeurs ou plus de type tableau associatif en textualisant les clés d'un tableau avec la méthode ARRAY. Ensuite, faites un print d'une valeur au choix en utilisant sa clé associée et la méthode PRINT_R ou ECHO.
     -->
 
+    <!-- Step 1.9 -->
+    <!-- Avec le tableau associatif créé précédemment, remplacer la valeur d'une des clés avec la méthode ARRAY_REPLACE.
+    -->
+
 </body>
 
 </html>
