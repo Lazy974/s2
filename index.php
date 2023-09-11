@@ -44,6 +44,10 @@ Good luck & happy coding !
     <!-- A l'aide de vos deux variables, effectuer une fusion de deux tableaux grâce à la méthode ARRAY_MERGE.
     -->
 
+    <!-- Step 1.7 -->
+    <!-- A l'aide de votre précédent tableau fusionné, utiliser la méthode ARRAY_RAND afin de choisir au hasard des valeurs à print.
+    -->
+
 </body>
 
 </html>
