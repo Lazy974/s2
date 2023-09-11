@@ -1,8 +1,8 @@
-# Learn PHP - Step 0
+# Learn PHP - Step 1
 
 ## Bonjour et bienvenue 👋 ! Dans cette série d'exercices, vous allez apprendre à travailler avec `PHP & SQL` !
 
-Dans le but d'approfondir vos connaissances en back-end, vous réaliserez une série de mini exercices afin de manipuler les langages `PHP` et `SQL`.
+Bravo, vous avez terminer votre initiation à PHP lors de l'étape 0. Dans le but de continuer à manipuler les langages `PHP` et `SQL`, suivez les instructions ci-dessous.
 
   ### 3, 2, 1, ..... Partez !
 
