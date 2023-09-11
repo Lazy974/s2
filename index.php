@@ -36,6 +36,10 @@ Good luck & happy coding !
     <!-- Avec la même variable, supprimer la dernière valeur avec la méthode ARRAY_POP.
     -->
 
+    <!-- Step 1.5 -->
+    <!-- Déclarer une nouvelle variable de type tableau en y insérant 3 valeurs ou plus. Remplacer l'ancien tableau de votre première variable par la deuxième avec la méthode ARRAY_REPLACE.
+    -->
+
 </body>
 
 </html>
