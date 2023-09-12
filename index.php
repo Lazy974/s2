@@ -24,6 +24,11 @@ Good luck & happy coding !
     <!-- Déclarer une fonction php nommée FOO. Dans son bloc de portée, faites un print de votre choix avec la méthode ECHO. N'oubliez pas d'appeler la fonction pour pouvoir l'exécuter.
     -->
 
+    <!-- Step 2.2 -->
+    <!-- Dans la fonction créée plus tôt, insérer un ou plusieurs paramètres. Faites un print de type string avec la méthode ECHO et en utilisant la concaténation afin d'écrire une phrase complète.
+    Par exemple : Le ciel est bleu.
+    -->
+
 </body>
 
 </html>
