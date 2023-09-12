@@ -59,6 +59,19 @@ Good luck & happy coding !
     <!-- En reprenant la fonction UPDATE créée plus tôt, effectuer une CONDITION stipulant que si BOOL est égale à TRUE, je peux exécuter la fonction UPDATE_DAY.
     -->
 
+    <!-- Step 3 -->
+    <!--
+    Bravo, vous venez de terminer la manipulation des fonctions PHP ! Ils existent encore pleins d'autres méthodes consultables ici :
+
+    https://www.php.net/manual/en/language.functions.php
+    
+    Passons à la suite en vous rendant sur ce lien :
+
+    https://github.com/Lazy974/s3
+
+    Made with ❤️ by HelloDev
+    -->
+
 </body>
 
 </html>
