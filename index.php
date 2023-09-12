@@ -33,6 +33,10 @@ Good luck & happy coding !
     <!-- Déclarer une fonction php nommée BAR. Cette fonction doit contenir un paramètre ayant une valeur par défaut. Faites un print avec la méthode ECHO en modifiant la valeur du paramètre.
     -->
 
+    <!-- Step 2.4 -->
+    <!-- Déclarer une fonction CALCULATE. Elle doit contenir deux paramètres X et Y. Ces paramètres doivent être de type INTEGER. La fonction doit additionner les deux paramètres avec la méthode RETURN.
+    -->
+
 </body>
 
 </html>
