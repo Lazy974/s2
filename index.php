@@ -41,6 +41,10 @@ Good luck & happy coding !
     <!-- Déclarer une fonction TIME avec 3 paramètres HOURS, MINUTES, SECONDS. Ces paramètres doivent être de type INTEGER. Dans le bloc de portée de la fonction, déclarer 3 constantes ayant pour valeur les 3 paramètres cités ci-dessus (ils existent deux méthodes). Faites un print avec la méthode ECHO en passant les argument 1, 60 et 3600 lors de l'appel à la fonction.
     -->
 
+    <!-- Step 2.6 -->
+    <!-- Déclarer une fonction ARROW FUNCTION en SNAKE CASE. Cette fonction doit être une fonction fléchée possédant deux paramètres de type INTEGER, X et Y. Additioner les deux paramètres en faisant un print avec la méthode VAR_EXPORT.
+    -->
+
 </body>
 
 </html>
