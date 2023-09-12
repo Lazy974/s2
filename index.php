@@ -55,6 +55,10 @@ Good luck & happy coding !
     Exemple : Nous sommes le 10 juillet 2024.
     -->
 
+    <!-- Step 2.9 -->
+    <!-- En reprenant la fonction UPDATE créée plus tôt, effectuer une CONDITION stipulant que si BOOL est égale à TRUE, je peux exécuter la fonction UPDATE_DAY.
+    -->
+
 </body>
 
 </html>
