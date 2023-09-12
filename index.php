@@ -49,6 +49,12 @@ Good luck & happy coding !
     <!-- Quelles sont les différences entre une fonction fléchée et une fonction normale en PHP ?
     -->
 
+    <!-- Step 2.8 -->
+    <!-- Créer une fonction UPDATE avec un seul paramètre BOOL de type booléean. Sa valeur par défaut est FALSE. Dans le bloc de portée de la fonction UPDATE, créer une autre fonction UPDATE DAY en SNAKE CASE ayant pour paramètre DAY de type STRING. 
+    Dans le bloc de portée de la fonction UPDATE DAY, faites un print avec la méthode ECHO permettant d'updater le jour.
+    Exemple : Nous sommes le 10 juillet 2024.
+    -->
+
 </body>
 
 </html>
