@@ -29,6 +29,10 @@ Good luck & happy coding !
     Par exemple : Le ciel est bleu.
     -->
 
+    <!-- Step 2.3 -->
+    <!-- Déclarer une fonction php nommée BAR. Cette fonction doit contenir un paramètre ayant une valeur par défaut. Faites un print avec la méthode ECHO en modifiant la valeur du paramètre.
+    -->
+
 </body>
 
 </html>
