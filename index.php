@@ -1,5 +1,5 @@
 <!-- 
-Dans cet exercice, vous apprendrez à manipuler les tableaux php.
+Dans cet exercice, vous apprendrez à manipuler les fonctions php.
 Veillez à bien lire les instructions présentes en commentaires.
 
 Good luck & happy coding !
@@ -18,55 +18,10 @@ Good luck & happy coding !
 </head>
 
 <body>
-    <h1 class="text-center py-10">Learn PHP - Step 1</h1>
+    <h1 class="text-center py-10">Learn PHP - Step 2</h1>
 
-    <!-- Step 1.1 -->
-    <!-- Déclarer une variable MY PRODUCT de type tableau en SNAKE CASE
-    -->
-
-    <!-- Step 1.2 -->
-    <!-- Dans la variable créée plus tôt, insérer 3 valeurs ou plus. Utiliser la méthode ARRAY_MAP avec la valeur NULL en premier argument.
-    -->
-
-    <!-- Step 1.3 -->
-    <!-- Avec la même variable, ajouter 1 valeur ou plus au tableau avec la méthode ARRAY_PUSH.
-    -->
-
-    <!-- Step 1.4 -->
-    <!-- Avec la même variable, supprimer la dernière valeur avec la méthode ARRAY_POP.
-    -->
-
-    <!-- Step 1.5 -->
-    <!-- Déclarer une nouvelle variable de type tableau en y insérant 3 valeurs ou plus. Remplacer l'ancien tableau de votre première variable par la deuxième avec la méthode ARRAY_REPLACE.
-    -->
-
-    <!-- Step 1.6 -->
-    <!-- A l'aide de vos deux variables, effectuer une fusion de deux tableaux grâce à la méthode ARRAY_MERGE.
-    -->
-
-    <!-- Step 1.7 -->
-    <!-- A l'aide de votre précédent tableau fusionné, utiliser la méthode ARRAY_RAND afin de choisir au hasard des valeurs à print.
-    -->
-
-    <!-- Step 1.8 -->
-    <!-- Déclarer une variable contenant 3 valeurs ou plus de type tableau associatif en textualisant les clés d'un tableau avec la méthode ARRAY. Ensuite, faites un print d'une valeur au choix en utilisant sa clé associée et la méthode PRINT_R ou ECHO.
-    -->
-
-    <!-- Step 1.9 -->
-    <!-- Avec le tableau associatif créé précédemment, remplacer la valeur d'une des clés avec la méthode ARRAY_REPLACE.
-    -->
-
-    <!-- Step 2 -->
-    <!--
-    Bravo, vous venez de terminer la manipulation d'un tableau PHP ! Ils existent encore pleins d'autres méthodes consultables ici :
-
-    https://www.php.net/manual/en/ref.array.php
-    
-    Passons à la suite en vous rendant sur ce lien :
-
-    https://github.com/Lazy974/s2
-
-    Made with ❤️ by HelloDev
+    <!-- Step 2.1 -->
+    <!-- Déclarer une fonction php nommée FOO. Dans son bloc de portée, faites un print de votre choix avec la méthode ECHO. N'oubliez pas d'appeler la fonction pour pouvoir l'exécuter.
     -->
 
 </body>
