@@ -45,6 +45,10 @@ Good luck & happy coding !
     <!-- Déclarer une fonction ARROW FUNCTION en SNAKE CASE. Cette fonction doit être une fonction fléchée possédant deux paramètres de type INTEGER, X et Y. Additioner les deux paramètres en faisant un print avec la méthode VAR_EXPORT.
     -->
 
+    <!-- Step 2.7 -->
+    <!-- Quelles sont les différences entre une fonction fléchée et une fonction normale en PHP ?
+    -->
+
 </body>
 
 </html>
