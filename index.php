@@ -38,7 +38,7 @@ Good luck & happy coding !
     -->
 
     <!-- Step 2.5 -->
-    <!-- Déclarer une fonction TIME avec 3 paramètres HOURS, MINUTES, SECONDS. Ces paramètres doivent être de type INTEGER. Dans le bloc de portée de la fonction, déclarer 3 constantes ayant pour valeur les 3 paramètres cités ci-dessus (ils existent deux méthodes). Faites un print avec la méthode ECHO en passant les argument 1, 60 et 3600 lors de l'appel à la fonction.
+    <!-- Déclarer une fonction UTIME avec 3 paramètres HOURS, MINUTES, SECONDS. Ces paramètres doivent être de type INTEGER. Dans le bloc de portée de la fonction, déclarer 3 constantes ayant pour valeur les 3 paramètres cités ci-dessus (ils existent deux méthodes). Faites un print avec la méthode ECHO en passant les argument 1, 60 et 3600 lors de l'appel à la fonction.
     -->
 
     <!-- Step 2.6 -->
